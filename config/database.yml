@@ -9,4 +9,4 @@ development:
 
 test:
   <<: *default
-  database: wyncode-todo
+  database: wyncode-todo-test
